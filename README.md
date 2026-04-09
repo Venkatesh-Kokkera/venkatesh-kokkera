@@ -45,7 +45,7 @@ ProjectDescriptionStack📄 RAG Document IntelligenceQ&A over enterprise documen
 CertificationStatusCisco Python Programmer (PCEP)✅ EarnedAzure Fundamentals (AZ-900)✅ EarnedData Fundamentals (DP-900)✅ EarnedPower Platform Developer (PL-400)✅ EarnedAWS Cloud Practitioner🔄 In Progress
 
 📫 Let's Connect
-📧 vkokkeravk@gmail.com · 💼 LinkedIn:https://www.linkedin.com/in/venkatesh-ko/ · 📍 Lowell, MA
+📧 vkokkeravk@gmail.com · 💼 LinkedIn:https://www.linkedin.com/in/venkatesh-ko/ · 📞 +1 (203) 479-2974 . 📍 Lowell, MA 
 
 <div align="center">
 <sub>⚡ Built with purpose · Deployed with precision · Driven by impact</sub>
