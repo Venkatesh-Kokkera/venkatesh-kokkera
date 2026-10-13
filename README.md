@@ -5,11 +5,11 @@
 
 <div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/Venkatesh-Kokkera/venkatesh-kokkera/main/intro.svg"
-  width="900"
-  alt="Hey there! I'm Venkatesh Kokkera — AI Engineering"
-/>
+<h2>Hey there! 👋</h2>
+
+<h1>I'm Venkatesh Kokkera</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=Forward+Deployed+Engineer;Applied+AI+Engineer;Agentic+AI+Engineer;Python+%7C+LLMs+%7C+RAG+%7C+LangGraph;Building+real-world+AI+solutions;From+business+discovery+to+production" alt="Animated engineering roles" />
 
 <br/>
 
@@ -18,11 +18,11 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/venkatesh-ko/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:vkokkeravk@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
