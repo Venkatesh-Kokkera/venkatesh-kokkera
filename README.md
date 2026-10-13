@@ -46,8 +46,8 @@ LangGraph-based workflow with tool execution, state management, validation, and 
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: Add your LinkedIn URL
-- 📧 Email: Add your professional email
+- 💼 LinkedIn:https://www.linkedin.com/in/venkatesh-ko/
+- 📧 Email:vkokkeravk@gmail.com
 - 🌐 GitHub: https://github.com/Venkatesh-Kokkera
 
 ---
