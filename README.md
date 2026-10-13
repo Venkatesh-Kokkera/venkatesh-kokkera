@@ -1,20 +1,31 @@
 
 <div align="center">
 
-<!-- Animated hero -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1D4ED8,100:06B6D4&height=220&section=header&text=VENKATESH%20KOKKERA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Forward%20Deployed%20Engineer%20%7C%20Applied%20AI%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Venkatesh Kokkera — Forward Deployed Engineer and Applied AI Engineer" />
+<h1>Hey, I'm Venkatesh 👋</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=850&lines=I+build+AI+systems+that+solve+real+problems.;Python+%E2%86%92+APIs+%E2%86%92+LLMs+%E2%86%92+Production;Agentic+AI+%7C+RAG+%7C+LangGraph+%7C+FastAPI;From+technical+discovery+to+deployment." alt="Animated engineering introduction" /></a>
+<h3>Forward Deployed Engineer · Applied AI Engineer</h3>
 
-<p>
-  <a href="https://www.linkedin.com/in/venkatesh-ko/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:vkokkeravk@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Venkatesh-Kokkera?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1100&color=22D3EE&center=true&vCenter=true&width=850&lines=Building+AI+systems+that+solve+real+problems;Python+%7C+Agentic+AI+%7C+RAG+%7C+LangGraph;From+business+discovery+to+production;Turning+ideas+into+working+AI+products" alt="Animated engineering introduction" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/venkatesh-ko/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:vkokkeravk@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Venkatesh-Kokkera?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
+
+
 
 ### 👋 About me
 
