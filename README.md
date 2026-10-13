@@ -1,11 +1,22 @@
 
 
 
+
 <div align="center">
 
-<h1>Hey there! 👋 I'm Venkatesh Kokkera</h1>
+<!-- INTRO: TYPES ONCE, THEN STAYS -->
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2200&pause=500&color=22D3EE&center=true&vCenter=true&width=850&lines=Hey+there!+%F0%9F%91%8B;I'm+Venkatesh+Kokkera&repeat=false"
+  alt="Hey there! I'm Venkatesh Kokkera"
+/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1200&color=22D3EE&center=true&vCenter=true&width=850&lines=Forward+Deployed+Engineer;Applied+AI+Engineer;Agentic+AI+%7C+LLMs+%7C+RAG;Python+%7C+LangGraph+%7C+FastAPI;Building+AI+systems+that+solve+real+problems;Turning+business+ideas+into+working+solutions" alt="Animated engineering introduction" />
+<br/>
+
+<!-- ROLES: KEEP ANIMATING FOREVER -->
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Forward+Deployed+Engineer;Applied+AI+Engineer;Agentic+AI+Engineer;Python+%7C+LLMs+%7C+RAG+%7C+LangGraph;Building+real-world+AI+solutions;From+business+discovery+to+production&repeat=true"
+  alt="Animated engineering roles"
+/>
 
 <br/>
 
@@ -28,6 +39,7 @@
 </div>
 
 ---
+
 
 
 
