@@ -1,8 +1,11 @@
 
 
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1200&color=22D3EE&center=true&vCenter=true&width=850&lines=Hey+there!+I'm+Venkatesh+Kokkera;Forward+Deployed+Engineer;Applied+AI+%26+Agentic+AI+Engineer;I+build+AI+systems+that+solve+real+problems;Python+%7C+LLMs+%7C+RAG+%7C+LangGraph;Let's+build+something+amazing!" alt="Animated introduction" />
+<h1>Hey there! 👋 I'm Venkatesh Kokkera</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1200&color=22D3EE&center=true&vCenter=true&width=850&lines=Forward+Deployed+Engineer;Applied+AI+Engineer;Agentic+AI+%7C+LLMs+%7C+RAG;Python+%7C+LangGraph+%7C+FastAPI;Building+AI+systems+that+solve+real+problems;Turning+business+ideas+into+working+solutions" alt="Animated engineering introduction" />
 
 <br/>
 
@@ -25,6 +28,7 @@
 </div>
 
 ---
+
 
 
 ---
