@@ -1,27 +1,31 @@
 
+
 <div align="center">
 
-<h1>Hey, I'm Venkatesh 👋</h1>
-
-<h3>Forward Deployed Engineer · Applied AI Engineer</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1100&color=22D3EE&center=true&vCenter=true&width=850&lines=Building+AI+systems+that+solve+real+problems;Python+%7C+Agentic+AI+%7C+RAG+%7C+LangGraph;From+business+discovery+to+production;Turning+ideas+into+working+AI+products" alt="Animated engineering introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1200&color=22D3EE&center=true&vCenter=true&width=850&lines=Hey+there!+I'm+Venkatesh+Kokkera;Forward+Deployed+Engineer;Applied+AI+%26+Agentic+AI+Engineer;I+build+AI+systems+that+solve+real+problems;Python+%7C+LLMs+%7C+RAG+%7C+LangGraph;Let's+build+something+amazing!" alt="Animated introduction" />
 
 <br/>
 
+<b>Turning real business problems into working AI solutions.</b>
+
+<br/><br/>
+
 <a href="https://www.linkedin.com/in/venkatesh-ko/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:vkokkeravk@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://github.com/Venkatesh-Kokkera?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"/>
 </a>
 
 </div>
+
+---
+
 
 ---
 
